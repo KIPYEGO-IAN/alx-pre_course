@@ -1,1 +1,1 @@
-Starting to code today, so cool
+My second readme updated on github interface.
